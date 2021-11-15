@@ -1,23 +1,23 @@
 {
-  "name": "Pyramids NFT #5",
+  "name": "Pyramids NFT #6",
   "symbol": "PNFT",
   "description": "description of your collection",
   "seller_fee_basis_points": 1000,
   "image": "image.png",
   "external_url": "https://kooora.com",
-  "edition": 5,
+  "edition": 6,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "pink"
-    },
-    {
-      "trait_type": "Pyramid Type",
       "value": "Sand"
     },
     {
+      "trait_type": "Pyramid Type",
+      "value": "concrete"
+    },
+    {
       "trait_type": "Characteristics",
-      "value": "cat"
+      "value": "bug"
     }
   ],
   "collection": {

@@ -1,0 +1,464 @@
+[
+  {
+    "name": "Pyramids NFT #3",
+    "symbol": "PNFT",
+    "description": "description of your collection",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://kooora.com",
+    "edition": 3,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Pyramid Type",
+        "value": "Sand"
+      },
+      {
+        "trait_type": "Characteristics",
+        "value": "camel"
+      }
+    ],
+    "collection": {
+      "name": "Collection name",
+      "family": "Collection family"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "KZq1S7sjes7ZuRHi3Hzgs9T4E5fzqLTcUxA6Cj1USVW",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pyramids NFT #9",
+    "symbol": "PNFT",
+    "description": "description of your collection",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://kooora.com",
+    "edition": 9,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Pyramid Type",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Characteristics",
+        "value": "bug"
+      }
+    ],
+    "collection": {
+      "name": "Collection name",
+      "family": "Collection family"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "KZq1S7sjes7ZuRHi3Hzgs9T4E5fzqLTcUxA6Cj1USVW",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pyramids NFT #6",
+    "symbol": "PNFT",
+    "description": "description of your collection",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://kooora.com",
+    "edition": 6,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sand"
+      },
+      {
+        "trait_type": "Pyramid Type",
+        "value": "concrete"
+      },
+      {
+        "trait_type": "Characteristics",
+        "value": "bug"
+      }
+    ],
+    "collection": {
+      "name": "Collection name",
+      "family": "Collection family"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "KZq1S7sjes7ZuRHi3Hzgs9T4E5fzqLTcUxA6Cj1USVW",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pyramids NFT #2",
+    "symbol": "PNFT",
+    "description": "description of your collection",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://kooora.com",
+    "edition": 2,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Pyramid Type",
+        "value": "concrete"
+      },
+      {
+        "trait_type": "Characteristics",
+        "value": "palmtree"
+      }
+    ],
+    "collection": {
+      "name": "Collection name",
+      "family": "Collection family"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "KZq1S7sjes7ZuRHi3Hzgs9T4E5fzqLTcUxA6Cj1USVW",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pyramids NFT #7",
+    "symbol": "PNFT",
+    "description": "description of your collection",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://kooora.com",
+    "edition": 7,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Pyramid Type",
+        "value": "Obsidian"
+      },
+      {
+        "trait_type": "Characteristics",
+        "value": "camel"
+      }
+    ],
+    "collection": {
+      "name": "Collection name",
+      "family": "Collection family"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "KZq1S7sjes7ZuRHi3Hzgs9T4E5fzqLTcUxA6Cj1USVW",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pyramids NFT #10",
+    "symbol": "PNFT",
+    "description": "description of your collection",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://kooora.com",
+    "edition": 10,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "beige"
+      },
+      {
+        "trait_type": "Pyramid Type",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Characteristics",
+        "value": "camel"
+      }
+    ],
+    "collection": {
+      "name": "Collection name",
+      "family": "Collection family"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "KZq1S7sjes7ZuRHi3Hzgs9T4E5fzqLTcUxA6Cj1USVW",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pyramids NFT #5",
+    "symbol": "PNFT",
+    "description": "description of your collection",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://kooora.com",
+    "edition": 5,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Pyramid Type",
+        "value": "Sand"
+      },
+      {
+        "trait_type": "Characteristics",
+        "value": "cat"
+      }
+    ],
+    "collection": {
+      "name": "Collection name",
+      "family": "Collection family"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "KZq1S7sjes7ZuRHi3Hzgs9T4E5fzqLTcUxA6Cj1USVW",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pyramids NFT #8",
+    "symbol": "PNFT",
+    "description": "description of your collection",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://kooora.com",
+    "edition": 8,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Pyramid Type",
+        "value": "concrete"
+      },
+      {
+        "trait_type": "Characteristics",
+        "value": "palmtree"
+      }
+    ],
+    "collection": {
+      "name": "Collection name",
+      "family": "Collection family"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "KZq1S7sjes7ZuRHi3Hzgs9T4E5fzqLTcUxA6Cj1USVW",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pyramids NFT #0",
+    "symbol": "PNFT",
+    "description": "description of your collection",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://kooora.com",
+    "edition": 0,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "beige"
+      },
+      {
+        "trait_type": "Pyramid Type",
+        "value": "Sand"
+      },
+      {
+        "trait_type": "Characteristics",
+        "value": "horus"
+      }
+    ],
+    "collection": {
+      "name": "Collection name",
+      "family": "Collection family"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "KZq1S7sjes7ZuRHi3Hzgs9T4E5fzqLTcUxA6Cj1USVW",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pyramids NFT #4",
+    "symbol": "PNFT",
+    "description": "description of your collection",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://kooora.com",
+    "edition": 4,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Pyramid Type",
+        "value": "concrete"
+      },
+      {
+        "trait_type": "Characteristics",
+        "value": "cat"
+      }
+    ],
+    "collection": {
+      "name": "Collection name",
+      "family": "Collection family"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "KZq1S7sjes7ZuRHi3Hzgs9T4E5fzqLTcUxA6Cj1USVW",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pyramids NFT #1",
+    "symbol": "PNFT",
+    "description": "description of your collection",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://kooora.com",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sand"
+      },
+      {
+        "trait_type": "Pyramid Type",
+        "value": "Obsidian"
+      },
+      {
+        "trait_type": "Characteristics",
+        "value": "horus"
+      }
+    ],
+    "collection": {
+      "name": "Collection name",
+      "family": "Collection family"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "KZq1S7sjes7ZuRHi3Hzgs9T4E5fzqLTcUxA6Cj1USVW",
+          "share": 100
+        }
+      ]
+    }
+  }
+]
